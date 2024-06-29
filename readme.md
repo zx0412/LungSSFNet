@@ -10,6 +10,6 @@ Average function.
 
 # Experiment Results
 ## Segmentation results in model performance
-![nnU-Net overview](assets/result in AI.png)
+![nnU-Net overview](assets/results_in_AI.png)
 ## Segmentation results in clinical application
-![nnU-Net overview](results in medical.pngg)
+![nnU-Net overview](assets/results_in_medical.png)
