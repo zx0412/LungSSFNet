@@ -1,0 +1,9 @@
+Mean Dice Similarity Coefficient (DSC1): 0.751563246942682
+Mean Intersection over Union (IoU1): 0.8105067515515593
+Mean Dice Similarity Coefficient (DSC2): 0.9204570481627984
+Mean Intersection over Union (IoU2): 0.9303041549048059
+Accuracy: 0.967741935483871
+Precision: 1.0
+Recall: 0.9615384615384616
+F1_Score: 0.9803921568627451
+
